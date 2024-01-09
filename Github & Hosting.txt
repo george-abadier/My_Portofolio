@@ -1,0 +1,3 @@
+Github: https://github.com/george-abadier/My_Portofolio
+
+Hostiong: https://georgeportofolio.netlify.app/
