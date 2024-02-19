@@ -20,8 +20,8 @@ window.addEventListener('scroll', scrollUp)
 const animatedText = document.getElementById('animatedText');
 const dynamicText = document.getElementById('dynamicText');
 const textArray = [
-    'web applications using Angular & NodeJS.',
-    'web applications using Angular & C#.',
+    'web applications using Angular & Express.JS.',
+    'web applications using Angular & Asp.Net',
     'web interface.',
     'automation tools.'
 
